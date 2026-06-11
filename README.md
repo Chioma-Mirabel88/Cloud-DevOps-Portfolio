@@ -21,14 +21,12 @@ Welcome to my professional portfolio showcasing selected cloud engineering, DevO
 
 ### Professional Projects
 
-* [Project 001 - GCP to AWS Migration Project](projects/001-gcp-to-aws-migration.md)
-* Banking Application Architecture Design
-* Mobile Banking Platform Deployment on AWS
-* CI/CD Pipeline Implementation with GitHub Actions
-* Cognito Custom Message Lambda with S3 Template Automation
-* Slack Notification Integration
-* WhatsApp Notification Integration
-* Application Monitoring and Cloud Operations
+* Project 001 - GCP to AWS Migration
+* Project 002 - Banking Application Architecture Design
+* Project 003 - Banking Platform Infrastructure Implementation
+* Project 004 - CI/CD Pipeline Implementation
+* Project 005 - Cognito Custom Message Lambda with Terraform Automation
+* Project 006 - Slack Deployment Notification Integration
 
 ### Personal Projects
 
