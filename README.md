@@ -1,6 +1,6 @@
 # Chioma Mirabel Obieke
 
-## ## Cloud Engineer | DevOps Engineer
+## Cloud Engineer | DevOps Engineer
 
 Welcome to my professional portfolio showcasing selected cloud engineering, DevOps, cloud migration, infrastructure automation, architecture, deployment, monitoring, and cloud-native projects.
 
