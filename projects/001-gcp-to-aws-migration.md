@@ -1,3 +1,0 @@
-# Project 001: GCP to AWS Migration Project
-
-Coming soon...
